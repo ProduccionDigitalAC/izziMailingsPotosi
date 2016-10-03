@@ -1,0 +1,219 @@
+@import 'settings';
+@import 'foundation-emails';
+
+////////////////////////////////////////////////////////////////////----DEFAULT
+
+@media only screen and (max-width: #{$global-breakpoint}) {
+  .logo {
+    padding: 10px 0;
+  }
+}
+
+.custom-font {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.legales {
+  font-size: .7rem !important;
+}
+
+/////////////////////////////////////////////////////////----IP1
+.ip1-color {
+  color: #283279;
+}
+
+.ip1-col1 {
+  height: 80px;
+  background-color: #283279;
+}
+
+.ip1-col2 {
+  background-color: #fff;
+  border: 1px solid #283279;
+}
+
+.ip1-tel {
+  color: #fff;
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+}
+
+.ip1-website {
+  color: #fff;
+  font-size: .8rem !important;
+  margin: 0 !important;
+}
+
+.ip1-footer {
+  font-size: 1rem !important;
+}
+
+/////////////////////////////////////////////////////////----IP2
+
+.ip2 {
+  width: 846px !important;
+}
+
+.ip2-color {
+  color: #f28d08;
+}
+
+.ip2-col1 {
+  height: 80px;
+  border: 1px solid #f28d08;
+}
+
+.ip2-col2 {
+  background-color: #f28d08;
+}
+
+.ip2-tel {
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+}
+
+.ip2-website {
+  font-size: .8rem !important;
+  margin: 0 !important;
+}
+
+.ip2-footer {
+  color: #f28d08;
+  font-size: 1rem !important;
+}
+
+/////////////////////////////////////////////////////////----IP3
+
+.ip3-color {
+  color: #0061ad;
+}
+
+.ip3-col1 {
+  height: 80px;
+  border: 1px solid #0061ad;
+}
+
+.ip3-col2 {
+  background-color: #0061ad;
+}
+
+.ip3-tel {
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+}
+
+.ip3-website {
+  font-size: .8rem !important;
+  margin: 0 !important;
+}
+
+.ip3-footer {
+  color: #0061ad;
+  font-size: 1rem !important;
+}
+
+/////////////////////////////////////////////////////////----IP4
+
+.ip4-color {
+  color: #1d1d1b;
+}
+
+.ip4-col1 {
+  background-color: #1d1d1b;
+  padding-bottom: 0 !important;
+}
+
+.ip4-col2 {
+  background-color: #1d1d1b;
+  padding-bottom: 0 !important;
+}
+
+.ip4-tel {
+  font-size: 2rem !important;
+  margin: 0 !important;
+  color: #fff;
+}
+
+.ip4-footer {
+  color: #1d1d1b;
+  font-size: 1rem !important;
+}
+
+@media only screen and (max-width: #{$global-breakpoint}) {
+  .ip4-col1 {
+    background-color: #fff !important;
+    border: 1px solid #000;
+  }
+  .ip4-tel {
+    color: #1d1d1b !important;
+  }
+  .ip4-logo img {
+    width: 100px !important;
+  }
+}
+
+/////////////////////////////////////////////////////////----IP5
+
+.ip5-color {
+  color: #147abe;
+}
+
+.ip5-col1 {
+  height: 80px;
+  border: 1px solid #147abe;
+}
+
+.ip5-col2 {
+  background-color: #147abe;
+}
+
+.ip5-tel {
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+}
+
+.ip5-website {
+  font-size: .8rem !important;
+  margin: 0 !important;
+}
+
+.ip5-footer {
+  color: #147abe;
+  font-size: 1rem !important;
+}
+
+/////////////////////////////////////////////////////////----IP6
+.ip6-color {
+  color: #1d1e1c;
+}
+
+.ip6-col1 {
+  height: 80px;
+  background-color: #fff;
+  border: 1px solid #1d1e1c;
+}
+
+.ip6-col2 {
+  background-color: #1d1e1c;
+}
+
+.ip6-tel {
+  font-size: 1.5rem !important;
+  margin: 0 !important;
+}
+
+.ip6-website {
+  font-size: 1rem !important;
+  margin: 0 !important;
+}
+
+.ip6-footer {
+  font-size: 1rem !important;
+}
+
+/////////////////////////////////////////////////////////----IPL4-846
+
+.ipl4-846 {
+  width: 846px !important;
+}
+
