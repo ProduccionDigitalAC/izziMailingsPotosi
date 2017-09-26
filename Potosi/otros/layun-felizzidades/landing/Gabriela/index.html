@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+
+
+	<style type="text/css">
+		@media only screen and (max-width: 480px) {
+			.skin {
+				width: 640px !important;
+				height: 580px !important;
+				margin-left: -308px !important;
+			}
+
+			.videoContainer {
+				margin-left: -65px !important;
+				width: 138px !important;
+				top: 188px !important;
+			}
+
+			#playbutton {
+				display: none !important;
+			}
+
+			.tunombre{
+				top: 441px !important;
+				left: 0 !important;
+				width: 100% !important;
+			}
+
+			.tunombre p{
+				font-size: 22px !important;
+			}
+
+
+		}
+
+		body {
+			background-color: black;
+		}
+
+		.mainContainer {
+			overflow-y: scroll;
+			overflow-x: hidden;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			position: absolute;
+		}
+
+		.skin {
+			position: absolute;
+			width: 882px;
+			height: 800px;
+			left: 50%;
+			margin-left: -441px;
+			pointer-events: none;
+		}
+
+		.skin img {
+			width: 100%;
+		}
+
+		.videoContainer {
+			position: absolute;
+			left: 50%;
+			margin-left: -110px;
+			width: 193px;
+			top: 259px;
+			pointer-events: auto;
+		}
+
+		#playbutton {
+			position: absolute;
+			top: 395px;
+			left: 50%;
+			width: 80px;
+			height: 79px;
+			margin-left: -54px;
+			cursor: pointer;
+			pointer-events: auto;
+		}
+
+		#playbutton img {
+			width: 100%;
+		}
+
+		.tunombre{
+			position: absolute;
+			top: 615px;
+			left: -14px;
+			width: 100%;
+		}
+
+		.tunombre p{
+			color: black;
+			text-align: center;
+			font-family: 'Shadows Into Light', cursive;
+			font-size: 27px;
+		}
+
+	</style>
+
+
+</head>
+
+
+<body>
+
+<div class="mainContainer">
+
+	<div class="videoContainer">
+		<video width="100%" height="100%" id="videomensaje">
+			<source src="img/mensaje.mp4" type="video/mp4">
+			<source src="img/mensaje.ogv" type="video/ogv">
+		</video>
+	</div>
+
+	<div class="skin">
+		<img src="img/skin.png" alt="skin">
+	</div>
+
+
+	<div id="playbutton" onclick="playPause()">
+		<img src="img/play.png" alt="">
+	</div>
+
+	<div class="tunombre">
+		<p>
+			Gabriela
+		</p>
+	</div>
+
+</div>
+
+
+</body>
+
+<script>
+	var myVideo = document.getElementById("videomensaje");
+	var myBtn = document.getElementById("playbutton");
+
+	myVideo.addEventListener('ended',videoend,false);
+
+	function playPause() {
+		if (myVideo.paused) {
+			myVideo.play();
+			myBtn.style.display = "none";
+		}
+		else {
+			myBtn.style.display = "block";
+			myVideo.pause();
+		}
+	}
+
+	function videoend() {
+		document.getElementById("playbutton").style.display = "block";
+	}
+
+
+</script>
+
+</html>
