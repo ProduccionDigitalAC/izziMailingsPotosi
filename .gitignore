@@ -2,5 +2,7 @@
 .idea
 izziMailingsPotosi.iml
 .DS_Store
+gulpfile.js
+node_modules/
 
 
