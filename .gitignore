@@ -1,8 +1,17 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 izziMailingsPotosi.iml
+
 .DS_Store
+.DS_STORE
+
+#Depependecias de Node y Gulp
 gulpfile.js
 node_modules/
+bower_components/
+# Imagenes Sin Optimizar -> Esperando gulpfile
+wetransfer/
+wetransfer/**
 
-
+# Archivo Original
+*.psd
