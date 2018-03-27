@@ -1,6 +1,12 @@
-update# izziMailingsPotosi
-
-## Este un archivo de ayuda para el proximo Frontend en la Agencia. 
+```
+   ___                   __          __               _______                       __
+  / _ | ___________ ____/ /  ___ ___/ /__ _______ _  / ___/ /__ __  _____ _______  / /
+ / __ |/ __/ __/ -_) __/ _ \/ -_) _  / -_) __/ _ `/ / /__/ / _ `/ |/ / -_) __/ _ \/ / 
+/_/ |_/_/ /_/  \__/\__/_//_/\__/\_,_/\__/_/  \_,_/  \___/_/\_,_/|___/\__/_/  \___/_/  
+                                                                                      
+```
+                                                                                
+## Ayuda para el próximo Frontend en la Agencia. 
 
 El cliente utiliza Oracle y tiene bastantes restricciones a la hora de importar los Newsletters. 
 por lo que las siguientes recomendaciones te serviran para evitar dolores de cabeza y repetir el trabajo varias veces. Ya me lo agadreceras =) 
