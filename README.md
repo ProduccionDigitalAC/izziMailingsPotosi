@@ -6,7 +6,7 @@
                                                                                       
 ```
                                                                                 
-## Ayuda para el próximo Frontend en la Agencia. 
+## Guía para Newsletters (izzi). 
 
 El cliente utiliza Oracle y tiene bastantes restricciones a la hora de importar los Newsletters. 
 por lo que las siguientes recomendaciones te serviran para evitar dolores de cabeza y repetir el trabajo varias veces. Ya me lo agadreceras =) 
