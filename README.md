@@ -6,7 +6,7 @@ El cliente utiliza Oracle y tiene bastantes restricciones a la hora de importar 
 por lo que las siguientes recomendaciones te serviran para evitar dolores de cabeza y repetir el trabajo varias veces. Ya me lo agadreceras =) 
 
 1. Los assets deben de estar dentro de una carpeta llamada **img/** no deben de contenter espacios ni signos. 
-2. Si usas Mac probablemente se llegue a filtar un .DS_store puedes apoyarte en la terminal y ejecutar **find . -name ‘*.DS_Store’ -type f -delete** o puedes configurar tu compresor de archivos para que no incluya archivos ocultos de mac, te recomiendo utilices [Keka](http://www.kekaosx.com/es/)
+2. Si usas Mac probablemente se llegue a filtar un .DS_store puedes apoyarte en la terminal y ejecutar **find . -name ‘*.DS_Store’ -type f -delete** o puedes configurar tu compresor de archivos para que no incluya archivos ocultos de mac, te recomiendo utilices [Keka](http://www.kekaosx.com/es/) Preferencias/No incluir archivos Ocultos del Sistema.
 3. Para enviar el arvhivo comprimido usa el nombre de la camapaña sin mayusculas, espacios o caractereres especiales camapaniaNov2021, evita nombres genericos main.zip, code.zip, master.zip, etc.
 4. Los assets no deben de pasar de los 100kb c/u por lo que te recomiendo utilices Photoshop para la compresión de imagenes. 
 
