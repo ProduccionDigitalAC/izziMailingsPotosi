@@ -1,0 +1,36 @@
+{
+    "replacements": {
+		"do_something_1": {
+		    "find": "\\s*\\t\\s*",
+		    "replace": "\\t",
+		    "greedy": true,
+		    "case": false
+		},
+		"do_something_2": {
+		    "find": "\\n\\n+",
+		    "replace": "\\n",
+		    "greedy": true,
+		    "case": false
+		},
+		"test_reg_replace1": { 
+			"find" : "<tr>", 
+			"replace": "<tr style=\"display: block; white-space: nowrap;\">" 
+		},
+		"test_reg_replace2": { 
+			"find" : "<td>", 
+			"replace": "<td style=\"display: inline-block; vertical-align:top;\">" 
+		},
+		"test_reg_replace3": { 
+			"find" : "alt=\"\"", 
+			"replace": "border=\"0\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\" alt=\"\"" 
+		},
+		"test_reg_replace4": { 
+			"find" : "<table", 
+			"replace": "<table align=\"center\""  
+		},
+		"test_reg_replace5": { 
+			"find" : "<body", 
+			"replace": "<body style=\"-moz-box-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;margin:0;min-width:100%;padding:0;text-align:left;width:100%!important;\""  
+		}
+	}
+}

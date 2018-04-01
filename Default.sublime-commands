@@ -1,0 +1,85 @@
+[
+    // Clear all find highlights
+    {
+        "caption": "RegReplace: Clear Highlights",
+        "command": "reg_replace",
+        "args": {"clear": true}
+    },
+
+    // Edit regular expression rule.
+    {
+        "caption": "RegReplace: Edit Regular Expression Rule",
+        "command": "reg_replace_edit_regex"
+    },
+
+    // Create regular expression rule.
+    {
+        "caption": "RegReplace: Create New Regular Expression Rule",
+        "command": "reg_replace_edit_regex",
+        "args": {"new": true}
+    },
+
+    // Delete regular expression rule.
+    {
+        "caption": "RegReplace: Delete Regular Expression Rule",
+        "command": "reg_replace_delete_regex"
+    },
+
+    // Show the regular expression rule edit panel.
+    {
+        "caption": "RegReplace: Show Edit Panel",
+        "command": "reg_replace_show_edit_panel"
+    },
+    { 
+         "caption": "Reg Replace: Photoshop Newsletter", 
+         "command": "reg_replace", 
+         "args": {"replacements": ["test_reg_replace1", "test_reg_replace2", "test_reg_replace3", "test_reg_replace4", "test_reg_replace5"]} 
+     },
+
+    // Example commands.
+    // {
+    //     "caption": "Reg Replace: HTML5 Remove Deprecated Type Attr",
+    //     "command": "reg_replace",
+    //     "args": {"replacements": ["html5_remove_deprecated_type_attr"]}
+    // },
+    // {
+    //     "caption": "Reg Replace: Remove Trailing Spaces",
+    //     "command": "reg_replace",
+    //     "args": {"replacements": ["remove_trailing_spaces"]}
+    // },
+    // // Chained replacements in one command
+    // {
+    //     "caption": "Reg Replace: Remove HTML Comments and Trailing Spaces",
+    //     "command": "reg_replace",
+    //     "args": {"replacements": ["remove_html_comments", "remove_trailing_spaces"]}
+    // },
+
+    // Preferences
+    {
+        "caption": "RegReplace: Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/RegReplace/reg_replace.sublime-settings",
+            "default": "{\n$0\n}\n"
+        }
+    },
+    {
+        "caption": "RegReplace: User Rules",
+        "command": "open_file",
+        "args": {"file": "${packages}/User/reg_replace_rules.sublime-settings"}
+    },
+    {
+        "caption": "RegReplace: Documentation",
+        "command": "reg_replace_open_site",
+        "args": {
+            "url": "http://facelessuser.github.io/RegReplace/"
+        }
+    },
+    {
+        "caption": "RegReplace: Quick Start Guide",
+        "command": "reg_replace_doc",
+        "args": {
+            "page": "${packages}/RegReplace/quickstart.md"
+        }
+    }
+]

@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"cont",
+				"contain"
+			],
+			[
+				"bg",
+				"background-size"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"soi",
+				"solid"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"se",
+				"secondary-font-italic"
+			],
+			[
+				"sec",
+				"secondary-color"
+			],
+			[
+				"li",
+				"lighten"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"player",
+				"players"
+			],
+			[
+				"Comp",
+				"competencias"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"da",
+				"data-label"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"part",
+				"participación"
+			],
+			[
+				"ju",
+				"jugadores"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"Char",
+				"Charreada"
+			],
+			[
+				"col",
+				"color-verde"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"Pla",
+				"players"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color-verde"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"fa-",
+				"fa-trophy"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"colo",
+				"color-verde"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fa-c",
+				"fa-chevron-right"
+			],
+			[
+				"select",
+				"selectTeam"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fa",
+				"fa-calendar"
+			],
+			[
+				"c",
+				"colspan"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"color",
+				"color-verde"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"lis",
+				"lisp\tlist-style-position"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"res",
+				"restaurante"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"tt",
+				"text-transform"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rot",
+				"rotarcirculos"
+			],
+			[
+				"Reac",
+				"ReactDom"
+			],
+			[
+				"wp",
+				"wpCustomizerAddControlUpload\tWP Customizer Add Control Upload"
+			],
+			[
+				"wpCustomizerAddPanel",
+				"wpCustomizerAddPanel\tWP Customizer Add Panel"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"Pac",
+				"package"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"main",
+				"main-sidebar"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"slan",
+				"slan_theme_styles"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ani",
+				"animaFondo"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"rt",
+				"right"
+			],
+			[
+				"text-",
+				"text-align-last"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"ta",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"emme",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git  push",
+				"Git: Push"
+			],
+			[
+				"git  c",
+				"Git: Commit"
+			],
+			[
+				"gi t a",
+				"Git: Add All"
+			],
+			[
+				" git push",
+				"Git: Push"
+			],
+			[
+				" git c",
+				"Git: Commit"
+			],
+			[
+				" git add",
+				"Git: Add..."
+			],
+			[
+				"gipush",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIT AD",
+				"Git: Add..."
+			],
+			[
+				" git ad",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"GIT ADD",
+				"Git: Add..."
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wrap in",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmet wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"run",
+				"Run Stylefmt"
+			],
+			[
+				"postcss",
+				"Run PostCSS Sorting"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"post",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"Run",
+				"Run PostCSS Sorting"
+			],
+			[
+				"run Pos",
+				"Run PostCSS Sorting"
+			],
+			[
+				"R",
+				"Run Stylefmt"
+			],
+			[
+				"Post",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"PostCSS",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"Run Stylefmt",
+				"Run Stylefmt"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"emmet wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				">",
+				"Snippet: <?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"Wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emm",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"> ",
+				"Snippet: <?php $this->… ?>"
+			],
+			[
+				"Pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"Ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Material T",
+				"Material Theme: Extras"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 687.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/gulpfile.js",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/sections/icons.scss",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/control/_control.scss",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/base/_config.scss",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/.env",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/nuevosCanalesV4_100k/assets.html",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/Cobranza-Wizz/PA16/index.html",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/.local.env",
+		"/Users/miguelmendez/Downloads/wetransfer-b90c4e/index.html",
+		"/Users/miguelmendez/Downloads/wetransfer-b90c4e/edgeMasterInBusiness Management/index.html",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/main.scss",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/migracionv3/index.html",
+		"/Users/miguelmendez/Downloads/website_buchanans-regional.sql",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/migracionv1/index.html",
+		"/Volumes/BLANCO/Newsletters/Izzi/migracion/index.html",
+		"/Volumes/BLANCO/Newsletters/Izzi/migracionv2/index.html",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/app/Http/Controllers/Site/HistoryController.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/history/como.blade.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/history/scotch.blade.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/culture/scotch.blade.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/culture/how.blade.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/history/history.blade.php",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/buchanas/historia-del-whisky.html",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/buchanas/como-se-elabora-el-whisky.html",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/buchanas/blend-scotch-whisky.html",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/views/site/history/scotch.php",
+		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/config/database.php",
+		"/Volumes/BLANCO/Newsletters/Izzi/migracion/assets.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/assets/scss/template/_template.scss",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/assets/scss/app.scss",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/dist/nuevosCanales.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/Buchanans/assets/scss/main2.scss",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/dist/newsletter-2.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/package.json",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/helpers/raw.js",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/dist/nuevosCanales/nuevosCanales/nuevosCanales.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/pages/basic.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/dist/css/app.css",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/config.json",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/pages/marketing.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/NuevosCanalesV3/code.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/assets/scss/_settings.scss",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/src/pages/nuevosCanales.html",
+		"/Users/miguelmendez/Documents/emailPruebas/prueba1/src/pages/basic.html",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/example.config.json",
+		"/Users/miguelmendez/Documents/emailPruebas/emails/gulpfile.babel.js",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/.env",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/main.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/_variables.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/menu/menu.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/menu/menu.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/footer.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/font.sass",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/Cobranza/dia4/main.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/Cobranza/dia1/main.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/.gitignore",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/players/player.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/_fx.sass",
+		"/Users/miguelmendez/Desktop/MAMP-Backup/MAMP/htdocs/curso/wp-content/themes/clinik/gulpfile.js",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/NuevosCanales/gulpfile.js",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/scss/tables.sass",
+		"/Users/miguelmendez/Documents/McGarry Bowen/Mailings - VW/Marzo 2018/main.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/NuevosCanales/mainV1.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/Mailings - VW/Marzo 2018/invitacion.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/Cobranza/main.html",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/Cobranza/footer.html",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/home/home.pug",
+		"/Users/miguelmendez/Documents/McGarry Bowen/izziMailingsPotosi/NuevosCanales/main.html",
+		"/Users/miguelmendez/Desktop/MAMP-Backup/MAMP/htdocs/curso/wp-content/themes/clinik/package-lock.json",
+		"/Users/miguelmendez/Downloads/wizz-as/index.html",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/activities/activities.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/home/home.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/players/players.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/lobby/lobby.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/activities/activities.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/teams/teams.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/teams/team.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/lobby/lobby.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/index.pug",
+		"/Users/miguelmendez/Documents/proyectos/minero/harp-base/main.scss",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/players/players.sass",
+		"/Users/miguelmendez/.ssh/id_rsa.pub",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/games/games.controller.js",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/games/game.pug",
+		"/Users/miguelmendez/.ssh/id_rsa",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/games/games.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/app.controller.js",
+		"/Applications/MAMP/bin/php/php7.0.15/conf/php.ini",
+		"/Applications/MAMP/htdocs/mitienda/php.ini.sample",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/ISSUE_TEMPLATE.md",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/grunt-config.json.sample",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/Gruntfile.js.sample",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/composer.lock",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/composer.json",
+		"/Applications/MAMP/htdocs/magento2/grunt-config.json.sample",
+		"/Applications/MAMP/htdocs/magento2/Gruntfile.js.sample",
+		"/Applications/MAMP/htdocs/Magento-2.2.3/auth.json.sample",
+		"/Applications/MAMP/tmp/mysql/my.cnf",
+		"/Applications/MAMP/conf/my.cnf",
+		"/Applications/MAMP/Library/support-files/my-huge.cnf",
+		"/Applications/MAMP/Library/support-files/my-large.cnf",
+		"/Applications/MAMP/Library/support-files/my-medium.cnf",
+		"/Applications/MAMP/Library/support-files/my-small.cnf",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/home/home.controller.js",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/home/home.config.js",
+		"/Users/miguelmendez/Documents/proyectos/minero/harp-base/node_modules/caniuse-lite/data/features/variable-fonts.js",
+		"/Users/miguelmendez/Downloads/Charristics/Identidad/tipografías/webfontkit-Gobold/stylesheet.css",
+		"/Users/miguelmendez/Downloads/Charristics/web/favicon_package_v0.16/site.webmanifest",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/teams/teams.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/stats/stats.sass",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/profile.sass",
+		"/Users/miguelmendez/Documents/proyectos/bootstrap/scss/_variables.scss",
+		"/Users/miguelmendez/Downloads/Buchanans/index.html",
+		"/Users/miguelmendez/Downloads/Buchanans/como-se-elabora-el-whisky.html",
+		"/Users/miguelmendez/Downloads/Buchanans/assets/scss/main2.scss",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/profile.pug",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/assets/scss/main2.scss",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/index.html",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/stats/stats.pug",
+		"/Users/miguelmendez/Downloads/my-icons-collection/font/_flaticon.scss",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/edit.pug",
+		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/transactions.pug",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/historia-del-whisky.html",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/como-se-elabora-el-whisky.html",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/blend-scotch-whisky.html",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/cocktails-con-whisky.html",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/historia-de-grandeza.html",
+		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/familia-buchanans.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "",
+	"project": "IzziNewsletters.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"history",
+				"hzn_buchanansmexico_com14828_code/www/app/Http/Controllers/Site/HistoryController.php"
+			],
+			[
+				"culture",
+				"hzn_buchanansmexico_com14828_code/www/app/Http/Controllers/Site/CultureController.php"
+			],
+			[
+				"menu",
+				"src/menu/menu.sass"
+			],
+			[
+				"main",
+				"src/scss/main.sass"
+			],
+			[
+				"var",
+				"src/scss/_variables.sass"
+			],
+			[
+				"font",
+				"src/scss/font.sass"
+			],
+			[
+				"footer",
+				"src/scss/footer.sass"
+			],
+			[
+				"foo",
+				"src/scss/footer.sass"
+			],
+			[
+				"home",
+				"st-charristics-site/src/home/home.pug"
+			],
+			[
+				"fx",
+				"st-charristics-site/src/scss/_fx.sass"
+			],
+			[
+				"lob",
+				"st-charristics-site/src/lobby/lobby.pug"
+			],
+			[
+				"act",
+				"st-charristics-site/src/activities/activities.pug"
+			],
+			[
+				"tables",
+				"st-charristics-site/src/scss/tables.sass"
+			],
+			[
+				"index",
+				"st-charristics-site/src/index.pug"
+			],
+			[
+				"men",
+				"st-charristics-site/src/menu/menu.sass"
+			],
+			[
+				"acti",
+				"st-charristics-site/src/activities/activities.sass"
+			],
+			[
+				"lobb",
+				"st-charristics-site/src/lobby/lobby.pug"
+			],
+			[
+				"game",
+				"st-charristics-site/src/games/games.sass"
+			],
+			[
+				"tabl",
+				"st-charristics-site/src/scss/tables.sass"
+			],
+			[
+				"table",
+				"st-charristics-site/src/scss/tables.sass"
+			],
+			[
+				"inde",
+				"st-charristics-site/src/index.pug"
+			],
+			[
+				".sass",
+				"st-charristics-site/src/games/games.sass"
+			],
+			[
+				"vari",
+				"st-charristics-site/src/scss/_variables.sass"
+			],
+			[
+				"profi",
+				"st-charristics-site/src/profile/profile.sass"
+			],
+			[
+				"stats",
+				"st-charristics-site/src/stats/stats.sass"
+			],
+			[
+				"ta",
+				"st-charristics-site/src/scss/tables.sass"
+			],
+			[
+				"activi",
+				"st-charristics-site/src/activities/activities.pug"
+			],
+			[
+				"tab",
+				"st-charristics-site/src/scss/tables.sass"
+			],
+			[
+				"varia",
+				"harp-base/node_modules/less/test/css/variables.css"
+			],
+			[
+				"team",
+				"st-charristics-site/src/teams/team.pug"
+			],
+			[
+				"player",
+				"st-charristics-site/src/players/players.sass"
+			],
+			[
+				"lobby",
+				"st-charristics-site/src/lobby/lobby.pug"
+			],
+			[
+				"hea",
+				"st-charristics-site/src/scss/header.sass"
+			],
+			[
+				"games",
+				"st-charristics-site/src/games/games.sass"
+			],
+			[
+				"vars",
+				"harp-base/node_modules/node-sass/test/fixtures/include-path/lib/vars.scss"
+			],
+			[
+				"profile",
+				"st-charristics-site/src/profile/profile.config.js"
+			],
+			[
+				"prof",
+				"st-charristics-site/src/profile/profile.sass"
+			],
+			[
+				"prpf",
+				"st-charristics-site/src/profile/profile.pug"
+			],
+			[
+				"pla",
+				"src/players/players.sass"
+			],
+			[
+				"spo",
+				"src/home/sponsors.pug"
+			],
+			[
+				"teams",
+				"src/teams/teams.pug"
+			],
+			[
+				"depo",
+				"src/profile/deposit.pug"
+			],
+			[
+				"tran",
+				"src/profile/transactions.pug"
+			],
+			[
+				"dash",
+				"src/profile/dashboard.pug"
+			],
+			[
+				"lo",
+				"src/lobby/lobby.pug"
+			],
+			[
+				"help",
+				"src/home/help.pug"
+			],
+			[
+				"pro",
+				"src/profile/profile.sass"
+			],
+			[
+				"trn",
+				"src/profile/transactions.pug"
+			],
+			[
+				"depos",
+				"src/profile/deposit.pug"
+			],
+			[
+				"sp",
+				"src/home/sponsors.controller.js"
+			],
+			[
+				"meu",
+				"src/menu/menu.sass"
+			],
+			[
+				".scss",
+				"clinik/sass/style.scss"
+			],
+			[
+				"single",
+				"clinik/single.php"
+			],
+			[
+				"sider",
+				"supertema/sidebar.php"
+			],
+			[
+				"side",
+				"clinik/sidebar.php"
+			],
+			[
+				"main.scss",
+				"src/scss/main.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/proyectos/st-charristics-site/charristics.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

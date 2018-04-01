@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<style type="text/css">
+    #$1 {
+        max-width: $2;
+        height: $3;
+        border: 0;
+        margin: 0 auto;
+        display: block;
+    }
+
+    @media only screen and (max-width: 580px) {
+        #$1 {
+            display: block;
+            width: 100%;
+        }
+        #$1 tr td img {
+            width: 100%;
+            height: auto;
+        }
+    }
+</style>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tablacss</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
