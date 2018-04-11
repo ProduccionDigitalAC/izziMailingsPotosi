@@ -404,20 +404,40 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "ins",
+		"last_filter": "Ph",
 		"selected_items":
 		[
 			[
-				"ins",
-				"Package Control: Install Package"
+				"Ph",
+				"Reg Replace: Photoshop Newsletter"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
 			],
 			[
 				"git push",
 				"Git: Push"
 			],
 			[
-				"git c",
-				"Git: Commit"
+				"Photo",
+				"Reg Replace: Photoshop Newsletter"
+			],
+			[
+				"photo",
+				"Reg Replace: Photoshop Newsletter"
+			],
+			[
+				"Reg",
+				"Reg Replace: Test"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
 			],
 			[
 				"git add",
@@ -426,10 +446,6 @@
 			[
 				"git pull",
 				"Git: Pull"
-			],
-			[
-				"git ad",
-				"Git: Add All"
 			],
 			[
 				"git a",
@@ -656,7 +672,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 687.0
+		"width": 618.0
 	},
 	"console":
 	{
@@ -676,10 +692,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi"
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018"
 	],
 	"file_history":
 	[
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/mailingsAC/Volkswagen/2018/Abril/DWA 48 horas/index.html",
+		"/Users/miguelmendez/Documents/assets.html",
+		"/Users/miguelmendez/Library/Application Support/Sublime Text 3/Packages/User/reg_replace_rules.sublime-settings",
+		"/Users/miguelmendez/Library/Application Support/Sublime Text 3/Packages/RegReplace/Default.sublime-commands",
+		"/Users/miguelmendez/Library/Application Support/Sublime Text 3/Packages/User/tabla-responsive.sublime-snippet",
+		"/Users/miguelmendez/Documents/mail.html",
+		"/Users/miguelmendez/Documents/izzi_NvosCanales_MailingV2b.html",
+		"/Users/miguelmendez/Documents/index.html",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/reg_replace_rules.sublime-settings",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/migracionv1/index.html",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/README.md",
+		"/Volumes/BLANCO/Work/MyCode/PSD 2 Litmus/README.md",
+		"/Volumes/BLANCO/Work/PSD 2 Litmus/README.md",
+		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/Default.sublime-commands",
+		"/Users/miguelmendez/Library/Application Support/Sublime Text 3/Packages/User/Newsletters.sublime-macro",
 		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/gulpfile.js",
 		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/sections/icons.scss",
 		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/control/_control.scss",
@@ -693,7 +725,6 @@
 		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/resources/assets/sass/main.scss",
 		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/migracionv3/index.html",
 		"/Users/miguelmendez/Downloads/website_buchanans-regional.sql",
-		"/Volumes/BLANCO/Work/Arrechedera Claverol/izziMailingsPotosi/2018/migracionv1/index.html",
 		"/Volumes/BLANCO/Newsletters/Izzi/migracion/index.html",
 		"/Volumes/BLANCO/Newsletters/Izzi/migracionv2/index.html",
 		"/Applications/MAMP/htdocs/hzn_buchanansmexico_com14828/hzn_buchanansmexico_com14828_code/www/app/Http/Controllers/Site/HistoryController.php",
@@ -793,25 +824,11 @@
 		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/profile.sass",
 		"/Users/miguelmendez/Documents/proyectos/bootstrap/scss/_variables.scss",
 		"/Users/miguelmendez/Downloads/Buchanans/index.html",
-		"/Users/miguelmendez/Downloads/Buchanans/como-se-elabora-el-whisky.html",
-		"/Users/miguelmendez/Downloads/Buchanans/assets/scss/main2.scss",
-		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/profile.pug",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/assets/scss/main2.scss",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/index.html",
-		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/stats/stats.pug",
-		"/Users/miguelmendez/Downloads/my-icons-collection/font/_flaticon.scss",
-		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/edit.pug",
-		"/Users/miguelmendez/Documents/proyectos/st-charristics-site/src/profile/transactions.pug",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/historia-del-whisky.html",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/como-se-elabora-el-whisky.html",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/blend-scotch-whisky.html",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/cocktails-con-whisky.html",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/historia-de-grandeza.html",
-		"/Users/miguelmendez/Downloads/Buchanans Website PSDs/familia-buchanans.html"
+		"/Users/miguelmendez/Downloads/Buchanans/como-se-elabora-el-whisky.html"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -825,6 +842,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<img src=\"img",
+			"\"-ms-interpolation-mode:bicubic;image-rendering:optimizeQuality;image-rendering:-moz-crisp-edges;image-rendering:-o-crisp-edges;image-rendering:-webkit-optimize-contrast;image-rendering:crisp-edges;",
+			"<img src=\"img",
+			" style=\"display: inline-block; vertical-align:top;\"",
+			" style=\"display: block; white-space: nowrap;\"",
+			"border=\"0\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\"",
+			"Tabla_01"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -849,7 +873,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -894,7 +918,7 @@
 	"project": "IzziNewsletters.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":

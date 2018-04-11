@@ -22,7 +22,7 @@
 		},
 		"test_reg_replace3": { 
 			"find" : "alt=\"\"", 
-			"replace": "border=\"0\" style=\"-ms-interpolation-mode:bicubic;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:auto\" alt=\"\"" 
+			"replace": "border=\"0\" style=\"-ms-interpolation-mode:bicubic;image-rendering:optimizeQuality;image-rendering:-moz-crisp-edges;image-rendering:-o-crisp-edges;image-rendering:-webkit-optimize-contrast;image-rendering:crisp-edges;clear:both;display:block;max-width:100%;outline:0;width:auto\" alt=\"\"" 
 		},
 		"test_reg_replace4": { 
 			"find" : "<table", 
